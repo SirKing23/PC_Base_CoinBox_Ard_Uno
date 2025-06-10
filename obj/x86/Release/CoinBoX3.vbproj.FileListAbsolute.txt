@@ -1,0 +1,42 @@
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.AssemblyReference.cache
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.AddRate.resources
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.Login.resources
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.SetUp_Page.resources
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.Resources.resources
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.warning.resources
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.GenerateResource.cache
+C:\Users\PCTRDEVS-04\Pictures\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.CoreCompileInputs.cache
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\bin\x86\Release\CoinBoX3.exe.config
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\bin\x86\Release\CoinBoX3.exe
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\bin\x86\Release\CoinBoX3.pdb
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\bin\x86\Release\CoinBoX3.xml
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\bin\x86\Release\ArduinoUploader.dll
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.AssemblyReference.cache
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.AddRate.resources
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.Login.resources
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.SetUp_Page.resources
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.Resources.resources
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.warning.resources
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.GenerateResource.cache
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.CoreCompileInputs.cache
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.vbproj.CopyComplete
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.exe
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.xml
+D:\Dropbox\System app\CoinBoX3\CoinBoX3\CoinBoX3\obj\x86\Release\CoinBoX3.pdb
+D:\Dropbox\System app\CoinBoX3-2\bin\x86\Release\CoinBoX3.exe.config
+D:\Dropbox\System app\CoinBoX3-2\bin\x86\Release\CoinBoX3.exe
+D:\Dropbox\System app\CoinBoX3-2\bin\x86\Release\CoinBoX3.pdb
+D:\Dropbox\System app\CoinBoX3-2\bin\x86\Release\CoinBoX3.xml
+D:\Dropbox\System app\CoinBoX3-2\bin\x86\Release\ArduinoUploader.dll
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.vbproj.AssemblyReference.cache
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.AddRate.resources
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.Login.resources
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.SetUp_Page.resources
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.Resources.resources
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.warning.resources
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.vbproj.GenerateResource.cache
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.vbproj.CoreCompileInputs.cache
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.vbproj.CopyComplete
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.exe
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.xml
+D:\Dropbox\System app\CoinBoX3-2\obj\x86\Release\CoinBoX3.pdb
